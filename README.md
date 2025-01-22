@@ -10,5 +10,5 @@ Tugas:
 Routing Static dan Dinamic (RIP, OSPF, BGP)
 
 # Topologi
-![Topologi Jarkom](Topologi UAS Jarkom.jpeg)
+![Topologi Jarkom](Topologi-UAS-Jarkom.jpeg)
 
